@@ -11,7 +11,7 @@ class Search extends Component {
           //   value={this.state.lastName}
           name="search"
         />
-        <button class="btn btn-outline-info my-2 my-sm-0" type="submit">
+        <button className="btn btn-outline-info my-2 my-sm-0" type="submit">
           Search
         </button>
       </form>

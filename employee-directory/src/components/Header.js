@@ -3,10 +3,10 @@ import React, { Component } from "react";
 class Header extends Component {
   render() {
     return (
-      <div class="jumbotron">
-        <div class="container">
-          <h1 class="display-4">Employee Directory</h1>
-          <p class="lead">
+      <div className="jumbotron">
+        <div className="container">
+          <h1 className="display-4">Employee Directory</h1>
+          <p>
             Search below for employees, or click the heading to filter each
             category.
           </p>

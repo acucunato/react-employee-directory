@@ -23,3 +23,17 @@ h1 {
   justify-content: center;
   padding: 30px;
 }
+
+.headings {
+  font-family: "Vidaloka", serif;
+  font-size: 20px;
+  background-color: white;
+  opacity: 80%;
+  text-align: center;
+  border-bottom: solid #bffcc6 3px;
+}
+
+.emp-card {
+  border-bottom: dotted #c4faf8 3px;
+  text-align: center;
+}
