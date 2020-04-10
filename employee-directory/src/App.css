@@ -26,7 +26,7 @@ h1 {
 
 .headings {
   font-family: "Vidaloka", serif;
-  font-size: 20px;
+  font-size: 17px;
   background-color: white;
   opacity: 80%;
   text-align: center;
@@ -34,6 +34,7 @@ h1 {
 }
 
 .emp-card {
-  border-bottom: dotted #c4faf8 3px;
+  background-color: white;
+  border-bottom: dashed #c4faf8 2px;
   text-align: center;
 }

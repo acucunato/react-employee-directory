@@ -1,10 +1,10 @@
 import React from "react";
 
-function Card(props) {
+function Card({ filteredList }) {
   return (
-    <div className="card">
-      {props.employees.map((employee) => (
-        <div className="row emp-card" key={employee.id.value}>
+    <>
+      {filteredList.map((employee) => (
+        <div className="row emp-card" key={filteredList.indexOf(employee)}>
           <div className="col-md-1">
             <img src={employee.picture.medium} alt="Emp Img" />
           </div>
@@ -16,7 +16,7 @@ function Card(props) {
           <div className="col-md-2">{employee.dob.date.split("T")[0]}</div>
         </div>
       ))}
-    </div>
+    </>
   );
 }
 
