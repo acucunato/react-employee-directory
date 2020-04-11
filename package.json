@@ -1,5 +1,5 @@
 {
-  "name": "employee-directory",
+  "name": "react-employee-directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,8 @@
     "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "serve": "^11.3.0"
   },
   "engines": {
     "node": ">=10.0.0 <13.0.0"
