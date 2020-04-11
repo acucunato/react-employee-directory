@@ -13,7 +13,7 @@ An employee directory created with React.js utilizing filter and search options.
 
 ## Demonstration
 
-![homepage](employee-directory/public/img/empdirectdemo.gif "homepage")
+![homepage](public/img/empdirectdemo.gif "homepage")
 
 ## Tech used
 
