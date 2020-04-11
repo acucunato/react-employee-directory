@@ -6,7 +6,7 @@ An employee directory created with React.js utilizing filter and search options.
 
 ## Utilizing the App
 
-- Experience the deployed app on Heroku: [Here](link "Here")
+- Experience the deployed app on Heroku: [Here](https://acucunato-emp-dir.herokuapp.com/ "Here")
 - When the user loads the page, they are given a table of random employees. The user is able to:
   - Search the table by employee's first name.
   - Filter employee's alphabetically by last name.
