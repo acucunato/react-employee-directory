@@ -12,14 +12,14 @@ h1 {
 
 .jumbotron {
   background-color: white;
-  opacity: 80%;
+
   text-align: center;
   border-bottom: solid #c5a3ff 4px;
 }
 
 .search-bar {
   background-color: white;
-  opacity: 80%;
+
   justify-content: center;
   padding: 30px;
 }
@@ -28,7 +28,7 @@ h1 {
   font-family: "Vidaloka", serif;
   font-size: 17px;
   background-color: white;
-  opacity: 80%;
+
   text-align: center;
   border-bottom: solid #bffcc6 3px;
 }
